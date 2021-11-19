@@ -28,4 +28,5 @@ func exampleBuilder() {
 		fmt.Println(err)
 	}
 	fmt.Println(myworkspace)
+	fmt.Println("done")
 }
