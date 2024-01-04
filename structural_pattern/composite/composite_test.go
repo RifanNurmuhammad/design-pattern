@@ -23,4 +23,5 @@ func TestComposite(t *testing.T) {
 
 	fmt.Println(paketWorkingSpace.TotalPriceProduct())
 
+	fmt.Println(monitor1.TotalPriceProduct())
 }
